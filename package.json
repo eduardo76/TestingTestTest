@@ -1,0 +1,18 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "all baout testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "test"
+  ],
+  "author": "Eduardo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
